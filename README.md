@@ -1,5 +1,3 @@
-# ilkebati
-High school researcher focused on Electrical Engineering, Embedded Systems &amp; Smart Energy.
 # Hi, I'm İlke Batı 👋
 
 I am a senior high school student at Edirne Lisesi, aspiring to study Electrical and Electronics Engineering. My research and technical interests lie at the intersection of embedded systems, power electronics, and intelligent energy optimization.
@@ -29,3 +27,9 @@ I am a senior high school student at Edirne Lisesi, aspiring to study Electrical
 ---
 
 📫 **Contact:** Feel free to connect for research collaborations or engineering projects!
+
+---
+### 🌍 Leadership, Sustainability & Community Impact
+- **[Edirne Lisesi Solar Energy Proposal & Technical Report](https://docs.google.com/document/d/1haA4aeJX5TLKzr-UDlc4btHl3a3wZ897HXiUnPzNdhc/edit)** — A comprehensive 120 kWp rooftop solar feasibility and engineering report designed for school leadership.
+- **[Electronics for Climate — Workshop Curriculum](https://docs.google.com/document/d/1dWvyhq3o_gOpx-htm-4gY90WYYtKKW2K06yHnYvhP78/edit)** — A peer-led 3-session workshop series introducing younger high school students to microcontrollers, sensors, and renewable energy.
+
